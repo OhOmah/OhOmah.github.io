@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look Back: My first ever project
+title: Looking Back on my First Project
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
