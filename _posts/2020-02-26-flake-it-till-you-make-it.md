@@ -2,7 +2,7 @@
 layout: post
 title: Looking Back on my First Project
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Racing.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Data Science]
