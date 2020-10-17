@@ -18,4 +18,8 @@ That being said, this project was pretty abstract, but quickly humbled me as I t
 
 Today I'm challenging myself, taking the iRacing dataset one more time and seeing what kind of results I can come up with, already looking back at my first attempt there were some clear flaws stemming all the way to the very first step. My question. I asked a very simple question that easily could've been answered with logic, ** Would more time spent in iRacing mean you'd be in a higher skill bracket?** 
 
-We're going to change that question and see what we can answer with the data. 
+We're going to change that question and see what we can answer with the data. Instead of asking if putting time into the simulator results into skill, I want to see which region of the world has the most skilled racers. 
+
+I quickly realized that I'm going to have to completely changed how I approached handling and working with my data. from the ground up I need to engineer new features and remove different kinds if I want to build any kind of new model. 
+
+Let's start with some visualizations: 
