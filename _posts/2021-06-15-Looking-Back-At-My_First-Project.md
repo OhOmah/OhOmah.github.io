@@ -5,7 +5,7 @@ subtitle: Challenging myself one more time
 cover-img: /assets/img/Racing.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Data Science]
+tags: [Data Science, Data Analytics]
 ---
 
 My **first ever data science project..**
