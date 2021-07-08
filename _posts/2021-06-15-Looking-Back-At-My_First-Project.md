@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking Back on my First Project
-subtitle: Challanging myself one more time
+subtitle: Challenging myself one more time
 cover-img: /assets/img/Racing.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
