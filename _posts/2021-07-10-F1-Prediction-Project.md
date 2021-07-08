@@ -11,7 +11,7 @@ tags: [Data Science, Machine Learning, API Deployment, Project]
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Grabbing Data & Data Analysis](#grabbing-data-&-data-analysis)
+2. [Grabbing Data & Data Analysis](#brabbing-data-&-data-analysis)
 3. [Machine Learning](#machine-learning)
 4. [Final Thoughts](#final-thoughts)
 
