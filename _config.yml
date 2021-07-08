@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Adventures in Data Science
+title: Seeing the Future with the Information We Have Now 
 
 # Your name to show in the footer
 author: Omar Zaffar
@@ -16,9 +16,7 @@ author: Omar Zaffar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - F1 API: "ENTER HEROKU LINK HERE"
 
 # --- Logo --- #
 
