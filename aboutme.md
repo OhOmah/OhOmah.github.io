@@ -6,11 +6,11 @@ subtitle: Why you'd want to hire me
 
 A Quick Run down of my skills and hobbies:
 
+- Strong skills with Python, SQL, and Java
+- Involved with 4 major data science related projects that required building and improving machine learning models and neural networks
 - Professional Video Editor (W/ Adobe Premiere Pro and Adobe After Effects)
 - Advid track racer
-- Strong skills with C++, Java and Python
-- Can rebuild a motor in one weekend by myself
-- Involved with 3 major data science related projects that required building and improving machine learning models and neural networks
+- Can pull and rebuild a motor in one weekend by myself
 
 ### My story
 
