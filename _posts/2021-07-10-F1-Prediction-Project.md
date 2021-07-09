@@ -12,8 +12,8 @@ tags: [Data Science, Machine Learning, API Deployment, Project]
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Grabbing Data & Data Analysis](#brabbing-data-&-data-analysis)
-3. [Machine Learning](#machine-learning)
-4. [Final Thoughts](#final-thoughts)
+4. [Machine Learning](#machine-learning)
+5. [Final Thoughts](#final-thoughts)
 
 ## Introduction
 I finally finished Lambda School, got my data science & machine learning certification and landed my very first internship! The only thing left is to start my first project to explore subjects that I either brushed across when studying or never had the chance to explore. So, I present to everyone, My F1 Race Predictor. 
